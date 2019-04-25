@@ -1,0 +1,27 @@
+# --
+# Copyright (C) 2010-2017 OMQ GmbH, http://www.omq.de
+# --
+# This software comes with ABSOLUTELY NO WARRANTY. For details, see
+# the enclosed file COPYING for license information (AGPL). If you
+# did not receive this file, see http://www.gnu.org/licenses/agpl.txt.
+# --
+
+<!--suppress HtmlUnknownTarget -->
+<link rel="stylesheet" href="[% Data.BaseUrl %]/integration/otrs5/admin.min.css"/>
+
+# nofilter(TidyAll::Plugin::OTRS::TT::ScriptUsage)
+<!--suppress JSUnusedLocalSymbols -->
+<script type="text/javascript">
+    var omqBaseUrl = "[% Data.BaseUrl %]";
+    var omqApiKey = "[% Data.UserApiKey %]";
+</script>
+<script type="text/javascript" src="[% Data.BaseUrl %]/integration/otrs5/admin.min.js"></script>
+
+<div class="omq-application-wrapper">
+    <div class="omq-application-container">
+        <div class="omq-button-resize"></div>
+        <div class="omq-application-frame-wrapper">
+            <iframe class="omq-application-frame" frameborder="0"></iframe>
+        </div>
+    </div>
+</div>

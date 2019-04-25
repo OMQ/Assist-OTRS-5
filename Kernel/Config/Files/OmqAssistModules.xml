@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_config version="1.0" init="Changes">
+    <ConfigItem Name="Frontend::Module###OmqAssistAdministration" Required="1" Valid="1">
+        <Description Translatable="1">Frontend module for OMQ administration.</Description>
+        <Group>OMQ</Group>
+        <SubGroup>Assist::ModuleRegistration</SubGroup>
+        <Setting>
+            <FrontendModuleReg>
+                <Title>OMQ</Title>
+                <Group>OMQ</Group>
+                <GroupRo>omq-admin</GroupRo>
+                <GroupRo>omq-editors</GroupRo>
+                <Description>OMQ</Description>
+                <NavBarName>OMQ</NavBarName>
+
+                <NavBar>
+                    <Description>OMQ</Description>
+                    <Name>OMQ</Name>
+                    <Link>Action=OmqAssistAdministration</Link>
+                    <NavBar>OMQ</NavBar>
+                    <Type>Menu</Type>
+                    <Prio>8500</Prio>
+                    <Block>ItemArea</Block>
+                </NavBar>
+            </FrontendModuleReg>
+        </Setting>
+    </ConfigItem>
+</otrs_config>

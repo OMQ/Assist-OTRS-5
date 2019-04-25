@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_config version="1.0" init="Changes">
+    <ConfigItem Name="OMQ::Assist::Settings::URL" Required="1" Valid="1">
+        <Description Translatable="1">Url of the OMQ account.</Description>
+        <Group>OMQ</Group>
+        <SubGroup>Assist::Settings</SubGroup>
+        <Setting>
+            <String Regex=""></String>
+        </Setting>
+    </ConfigItem>
+
+    <ConfigItem Name="OMQ::Assist::Settings::Apikey" Required="1" Valid="1">
+        <Description Translatable="1">Apikey of OMQ account.</Description>
+        <Group>OMQ</Group>
+        <SubGroup>Assist::Settings</SubGroup>
+        <Setting>
+            <String Regex=""></String>
+        </Setting>
+    </ConfigItem>
+
+    <ConfigItem Name="OMQ::Assist::Settings::UserGroupEnabled" Required="1" Valid="1">
+        <Description Translatable="1">Use groups for OMQ assist. OMQ assist will only be displayed to users of the "omq-agents" group.</Description>
+        <Group>OMQ</Group>
+        <SubGroup>Assist::Settings</SubGroup>
+        <Setting>
+            <Option SelectedID="0">
+                <Item Key="1">Yes</Item>
+                <Item Key="0">No</Item>
+            </Option>
+        </Setting>
+    </ConfigItem>
+</otrs_config>
