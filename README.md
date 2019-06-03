@@ -2,48 +2,31 @@
 
 ## Description
 
-[OMQ Assist](https://www.omq.ai/products/assist/) makes OTRS more **efficient** and helps you to deliver great customer service.
+[OMQ Assist](https://www.omq.ai/products/assist/) provides a package extension for OTRS that helps your service agents to answer recurring. service requests faster.
 
-## Features include:
+80% of service requests are recurring. The [artificial intelligence](https://www.omq.ai/blog/artificial-intelligence-in-customer-service/) of omq detects known requests and shows possible answers. Therefore the engine understands the intent of the **service requests**. Text blocks will be displayed on the right side of the ticket view. The **service agent** compose an email reply with a single click. If you like to answer with a different text than you could use the smart **search field** of OMQ Assist. While you enter a search term the smart autocomplete predicts meaningfull search combinations to find the right answer.
 
-- Answer support tickets with one click
-- Solve requests from all over the world (supports 32 languages)
-- OMQ AI learns from your support tickets (self learning)
-- Rights management for agents
-- Work in the OMQ knowledge base without leaving OTRS
+Do you like to find out more? We would be very happy to assist with the installation of the newest OTRS Assist version. Therefore please [contact us](https://www.omq.ai/company/contact/).
 
-To get the latest version of the extension please [contact us](https://www.omq.ai/company/contact/).
+## Product functions:
 
+- **Easy to use**
 
-## OMQ Assist
- 
-OMQ Assist enhances your ticket system with a **self-learning** knowledge base, which automatically suggests suitable solutions. The processing time of each individual ticket is reduced, because of the extremely shortened research process. As soon as a ticket or a customer email is opened in OTRS, OMQ Assist reads the message automatically. The **Artificial Intelligence** of OMQ understands the customer’s request and OMQ Assist proposes matching entries from the **knowledge base**. These appear in the right pane of OTRS Ticketview.
+  The extension is very easy to use. It is shown in the ticket and in the editor view. By clicking the matching text the ticket is answered by one click. 
 
-You can also individually search for an answer if you want to use a different answer than the one suggested by OMQ Assist. Just enter a search term in the **search field**. OMQ Assist displays all entries for this search term. The number in the first place indicates how many entries for the term are stored in the knowledge base as a whole. Below is listed which specific entries there are related to the term and how many of them exist.
+- **All languages you need**
+  
+  OMQ support 32 different languages all over the world. You can use it in Nortch America, South America, Europe and in the Asia region.
 
+- **Self learning**
 
-## About OMQ
-
-[OMQ](https://www.omq.ai) is a central and intelligent knowledge base. All OMQ products access the same service answers from the **knowledge base** and direct them into the various communication channels.
+  OMQ AI learns from your support tickets. Therefore it uses the blank texts and the feedback of your customers and your service agents.
 
 
-## OMQ’s AI understands the customer’s intent
-
-With our [artificial intelligence](https://www.omq.ai/blog/artificial-intelligence-in-customer-service/), incoming customer messages will be **automatically** read. Simultaneously, OMQ Assist analyzes and understands the **intention** of the customer request. Text blocks will be displayed to the **service agent** so that they can compose an email reply with a single click. Manually replying to repetitive customer requests will therefore be avoided.
-
-
-## How to install the OTRS extension
-
-Follow the [instructions](https://www.omq.ai/blog/otrs-omq-assist/).
-
-Integration with **OTRS** uses an **API key**. This is used to identify the connection in the ticket system. New customers create a free OMQ account during the integration process. The API is generated automatically in the process. OMQ customers who already have an account can generate an API key for a new Assist connection in the OMQ knowledge base under the **Assist** module. This is automatically generated via the plus-icon in the left corner.
+Folling you will find more information about the [OTRS package extension](https://www.omq.ai/blog/otrs-omq-assist/). Please click the following link to find out more about To find out more about central and intelligent knowledge base of [OMQ](https://www.omq.ai).
 
 
 ## Contribution
 
 Improvements to the extension are always welcome. To contribute, please contact [OMQ](https://www.omq.ai/company/contact/).
-
-
-## Bugs
-
-Please submit bug reports to [support@omq.ai](mailto:support@omq.ai).
+If you have any problems please send us your message to [support@omq.ai](mailto:support@omq.ai).
