@@ -6,8 +6,6 @@
 
 80% of service requests are recurring. The [artificial intelligence](https://www.omq.ai/blog/artificial-intelligence-in-customer-service/) of OMQ detects known requests and shows possible answers. Therefore the engine understands the intention of the **service requests**. Text blocks will be displayed on the right side of the ticket view. The **service agent** compose an email reply with a single click. If you like to answer with a different text you can use the smart **search field** of OMQ Assist. While you enter a search term the smart autocomplete predicts meaningfull search combinations to find the right answer.
 
-Do you like to find out more? We are very happy to assist zou with the installation of the newest OTRS Assist version. Therefore please [contact us](https://www.omq.ai/company/contact/).
-
 ## Product functions:
 
 - **Easy to use**
@@ -24,6 +22,11 @@ Do you like to find out more? We are very happy to assist zou with the installat
 
 
 Following you will find more information about the [OTRS package extension](https://www.omq.ai/blog/otrs-omq-assist/). Please click the following link to find out more about the central and intelligent knowledge base of [OMQ](https://www.omq.ai).
+
+
+## Installation
+
+Do you like to find out more? We are very happy to assist you with the installation of the newest OTRS Assist version. Therefore please [contact us](https://www.omq.ai/company/contact/).
 
 
 ## Contribution
