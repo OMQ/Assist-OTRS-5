@@ -1,35 +1,25 @@
 # OMQ Assist for OTRS 5
 
-[OMQ Assist](https://www.omq.ai/products/assist/) provides a package extension for OTRS that helps your service agents to answer recurring service requests faster.
+Scalable your customer service processes. With OMQ Assist for OTRS 5 you will provide the **best customer service**.
 
-## Description
+ [**OMQ Assist**](https://www.omq.ai/products/assist/) **reduces significantly** the manual work of agents by automating the response to  **customer requests with artificial intelligence**.
 
-80% of service requests are recurring. The [artificial intelligence](https://www.omq.ai/blog/artificial-intelligence-in-customer-service/) of OMQ detects known requests and shows possible answers. Therefore the engine understands the intention of the **service requests**. Text blocks will be displayed on the right side of the ticket view. The **service agent** compose an email reply with a single click. If you like to answer with a different text you can use the smart **search field** of OMQ Assist. While you enter a search term the smart autocomplete predicts meaningfull search combinations to find the right answer.
+OMQ Assist is using our  **intelligent knowledge database** for the automatic answering of standard requests. In the database the agents can manage the service entires and  **control** on which communication channels they want to publish the articles  **in real time**. Changes are immediately available to the customer. All OMQ products use the same knowledge, so OMQ customers don't have to add new knowledge to use OMQ Assist.
 
-## Product functions:
+This is one of the **most effective** ways to engage with your customers and increase customer loyalty.
 
-- **Easy to use**
+## OTRS Ticketsystem
 
-  The extension is very easy to use. It is shown in the ticket and in the editor view. By clicking the matching text the ticket is answered by one click. 
+OTRS is a ticketing systems used for customer service, helpdesk and IT service management. It can be easily customized according to the user's needs. It reduces costs and increases the effectiveness and simplicity of your business correspondence with fast usage.
 
-- **All languages you need**
-  
-  OMQ support 32 different languages all over the world. You can use it in Nortch America, South America, Europe and in the Asia region.
+## Installation OMQ Assist in OTRS
 
-- **Self learning**
+The installation of OMQ Assist in OTRS is  **super easy**. Just upload the file and change some settings.
 
-  OMQ AI learns from your support tickets. Therefore it uses the blank texts and the feedback of your customers and your service agents.
+You can read more in our detailed article about the installation instructions.
 
+For the installation you can follow the instructions in the [**article**](https://www.omq.ai/blog/otrs-omq-assist/)**.**
 
-Following you will find more information about the [OTRS package extension](https://www.omq.ai/blog/otrs-omq-assist/). Please click the following link to find out more about the central and intelligent knowledge base of [OMQ](https://www.omq.ai).
+## About OMQ
 
-
-## Installation
-
-Do you like to find out more? We are very happy to assist you with the installation of the newest OTRS Assist version. Therefore please [contact us](https://www.omq.ai/company/contact/).
-
-
-## Contribution
-
-Improvements to the extension are always welcome. To contribute, please contact [OMQ](https://www.omq.ai/company/contact/).
-If you have any questions please send your message to [support@omq.ai](mailto:support@omq.ai).
+[**OMQ**](http://www.omq.ai/) develops intelligent systems that  **automatically answer customer service questions**. Efficient use optimizes your customer experience process and helps you to reduce your costs.
